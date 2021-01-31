@@ -1,0 +1,1 @@
+print("camino del master")
